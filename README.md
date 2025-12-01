@@ -1,2 +1,2 @@
-# IR-KnowledgeSummary
-学习资料、个人思考、PPT、工具集合、应急命令行表格等
+# IR-KnowledgeSummary(IncidentResponseKnowledgeCollation)
+持续整理个人学习资料、应急思路、思考、文档PPT、法律法规、工具集合、应急命令行表格等
